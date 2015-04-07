@@ -1,0 +1,9 @@
+('D:\\learn_pyqt\\dist\\quitbutton.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1427368729L)

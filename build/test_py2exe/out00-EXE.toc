@@ -1,0 +1,9 @@
+('D:\\learn_pyqt\\dist\\test_py2exe.exe',
+ False,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1427442185L)
